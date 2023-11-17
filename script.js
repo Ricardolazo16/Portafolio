@@ -50,7 +50,7 @@ ScrollReveal().reveal('.home-content p, about-content', {origin:'right'});
 
 // typed js
 const typed= new Typed('.multiple-text',{
-    strings:['Estudiante de la ESPE', 'Filántropo', 'Capo', 'Máquina', 'Pobre :´v'],
+    strings:['Estudiante de la ESPE', 'Futuro graduado de la ESPE'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
